@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4b97ac0d35040ad9c54e3b2a11e1e0d, type: 3}
+  m_Name: ContinuousLearning
+  m_EditorClassIdentifier: 
+  CountCreate: 0
+  imageFront: {fileID: 21300000, guid: 4079b39d68520ae49b91ebf0f0864c89, type: 3}
+  type: 1
+  text: Continuous Learning

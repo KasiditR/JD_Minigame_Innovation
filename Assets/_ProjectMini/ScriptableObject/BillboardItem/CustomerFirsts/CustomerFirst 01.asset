@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2de0bae09a2bdda40bea60e7d15ecf6d, type: 3}
+  m_Name: CustomerFirst 01
+  m_EditorClassIdentifier: 
+  coreValue: 2
+  billboardObj: {fileID: 5515417332008061471, guid: 7b2dded6753f5fe4bb51a31452a04e4b, type: 3}
+  duration: 5
+  textDetails:
+  - detail: Be transparent, be authentic, be trustworthy.
+  - detail: "\u0E08\u0E23\u0E34\u0E07\u0E43\u0E08 \u0E42\u0E1B\u0E23\u0E07\u0E43\u0E2A\u0E48
+      \u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E16\u0E37\u0E2D\u0E44\u0E14\u0E49"
+  targets:
+  - {x: 300, y: -140, z: 0}
+  - {x: 100, y: 145, z: 0}
+  - {x: -420, y: -100, z: 0}
+  - {x: 50, y: -180, z: 0}
+  - {x: 200, y: 180, z: 0}

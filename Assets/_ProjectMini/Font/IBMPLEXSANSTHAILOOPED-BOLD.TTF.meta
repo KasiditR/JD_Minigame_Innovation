@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 35132f15f2cb86a4eae466464232ce44
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - IBM Plex Sans Thai Looped
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2f5387477fb4164ab78581bb1d9c075, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87486e6dbfe549db9802120847e1a4c7, type: 3}
+  m_Name: MatchingManager
+  m_EditorClassIdentifier: 
+  stateMode: 1
+  maxState: 2
+  state: 1
+  countItemList: 20
+  ItemsList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  ItemSelected:
+  - {fileID: 0}
+  - {fileID: 0}
+  countToCheckMatching: 0
+  FirstItem: {fileID: 0}
+  LastItem: {fileID: 0}
+  IsFirstItem: 0
+  IsCooldown: 0
+  itemPrefab: {fileID: 1707356604623547502, guid: f21a86e12f2cc1744ba566dbcabb5cab, type: 3}
+  itemsInfo:
+  - {fileID: 11400000, guid: 359ebf9782d71e64f9ed97c85b0c189d, type: 2}
+  - {fileID: 11400000, guid: 839818211595c07408f4bfb0783c2810, type: 2}
+  - {fileID: 11400000, guid: 9fa4b1f823ea5284abcfcb775a58e69b, type: 2}
+  - {fileID: 11400000, guid: f2164d5363c69ca499ad2b17a6844b55, type: 2}
+  - {fileID: 11400000, guid: 2e57d8501e7a58b4697b1886d4c99748, type: 2}
+  - {fileID: 11400000, guid: fbd690086d7ff094284ccb44734cc59c, type: 2}
+  - {fileID: 11400000, guid: def0df31434054f4f93fa46bda70e0f8, type: 2}
+  - {fileID: 11400000, guid: 67723afff6d340742959a7d4b0834732, type: 2}
+  - {fileID: 11400000, guid: 9aea98d747c3be04ca5630730d1317e8, type: 2}
+  - {fileID: 11400000, guid: f2b5463f5bd89654892b9a903a384dc6, type: 2}

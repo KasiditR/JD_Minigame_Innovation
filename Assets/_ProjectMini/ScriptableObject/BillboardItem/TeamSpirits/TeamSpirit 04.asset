@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2de0bae09a2bdda40bea60e7d15ecf6d, type: 3}
+  m_Name: TeamSpirit 04
+  m_EditorClassIdentifier: 
+  coreValue: 1
+  billboardObj: {fileID: 5515417332008061471, guid: 7b2dded6753f5fe4bb51a31452a04e4b, type: 3}
+  duration: 2
+  textDetails:
+  - detail: Synergize by prioritizing cross-functional collaboration.
+  - detail: "\u0E1B\u0E23\u0E30\u0E2A\u0E32\u0E19\u0E04\u0E27\u0E32\u0E21\u0E23\u0E48\u0E27\u0E21\u0E21\u0E37\u0E2D\u0E01\u0E31\u0E19\u0E02\u0E49\u0E32\u0E21\u0E2A\u0E48\u0E27\u0E19\u0E07\u0E32\u0E19"
+  targets:
+  - {x: 180, y: 50, z: 0}
+  - {x: -200, y: 180, z: 0}
+  - {x: 50, y: -100, z: 0}
+  - {x: 200, y: 150, z: 0}
+  - {x: 80, y: -180, z: 0}

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45752f16-1ea8-4251-a887-b03ba9bd518c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniGame/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MiniGame/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/Item.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/Item.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scenes/GameMatching.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scenes/GameMatching.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scenes/Innovation_Level_01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scenes/Innovation_Level_01.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/ScriptableObject/Item/ItemManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/ScriptableObject/Item/ItemManager.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/BillBoard/BillBoard.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/BillBoard/BillBoard.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/BillBoard/Dotween/ButtonGameOver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/BillBoard/Dotween/ButtonGameOver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/AnimationMatch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/AnimationMatch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/BoardManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/BoardManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/CountDown.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/CountDown.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/Item/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/Item/Item.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/Item/ItemManagerSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/Item/MatchingManagerSO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/Item/ItemManagerSO.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/Item/MatchingManagerSO.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/Item/MatchingManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/Matchings/Item/MatchingManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Adjacent Marker.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Adjacent Marker.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Dark Green Dot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Dark Green Dot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Green Dot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Green Dot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Indigo Dot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Indigo Dot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Orange Dot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Orange Dot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Red Dot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Prefab/CandyCrushPrefab/Red Dot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scenes/CandyCrush.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scenes/CandyCrush.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/AngleChecker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/AngleChecker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Board.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Board.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/DestroyParticle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/DestroyParticle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Dot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Dot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/SwipeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/SwipeController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
+>>>>>>> e6b1a2e3352766f7c1347341ef980647ac090e2c
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d44b17e136d09081da1e8fd0e8c83fde60e11818b9f2442d7ed8cb733fae895e/System.Collections.Generic.cs" root0="SKIP_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Bar/BaseBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Bar/TypeBar/CCCBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Bar/TypeBar/HomeAppBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Bar/BarControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Bar/TypeBar/Bar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_ProjectMini/Scripts/ScriptsCandy/Bar/PropertyBar.cs" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> e6b1a2e3352766f7c1347341ef980647ac090e2c
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B0p8taip656IGJCfxesAWPg4O0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "rider.run.widget.enabled.cache": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/New folder\MiniGame.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\dtawa\Desktop\New folder" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\Unity\2022.1.9f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\UnityProjects\UnityWolvEden\JD_Minigame_Innovation\MiniGame -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\UnityProjects\UnityWolvEden\JD_Minigame_Innovation\MiniGame" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45752f16-1ea8-4251-a887-b03ba9bd518c" name="Changes" comment="" />
+      <created>1656052700430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656052700430</updated>
+      <workItem from="1656052703692" duration="42366000" />
+      <workItem from="1656904805076" duration="65000" />
+      <workItem from="1656904906175" duration="2382000" />
+      <workItem from="1657180952524" duration="630000" />
+      <workItem from="1657710515507" duration="1000" />
+      <workItem from="1657712230786" duration="22000" />
+      <workItem from="1657783557800" duration="2576000" />
+      <workItem from="1657790554959" duration="607000" />
+<<<<<<< HEAD
+      <workItem from="1657873517309" duration="3037000" />
+      <workItem from="1658064320170" duration="23321000" />
+=======
+      <workItem from="1657873517309" duration="3634000" />
+      <workItem from="1658138117297" duration="2470000" />
+      <workItem from="1658213967563" duration="10519000" />
+      <workItem from="1658247341205" duration="8213000" />
+>>>>>>> e6b1a2e3352766f7c1347341ef980647ac090e2c
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
